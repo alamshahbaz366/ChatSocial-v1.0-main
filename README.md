@@ -18,10 +18,8 @@ Realtime fully responsive Anonymous Chat App With Users & Rooms - Socket.io, Nod
 Like every other node based project just clone it and run `npm install`
 this will install all dependencies including dev dependencies.
 
-> Now to run <br />
-> `npm run start` <br />
-> Or to run for dev <br />
-> `npm run dev` (will start nodemon)
+> Now to run : `npm run start` <br />
+> Or to run for dev : `npm run dev` (will start nodemon)
 
 ### Brief details
 
