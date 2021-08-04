@@ -25,10 +25,11 @@ this will install all dependencies including dev dependencies.
 
 ### Brief details
 
-Realtime fully responsive Anonymous Chat App With Users & Rooms. <br />
-Socket.io is used here for bidirectional and event-based communication from server to client and vice versa.,  <br />
-Node as a run-time environment and Express  as a web server on top of which the socketio is sending and receiving request from front to back and so. <br />
-momentjs is used for efficient time capture of sending of message in a room.
+1. Fully responsive real time anonymous Chat App with users rooms
+2. Used Socket.io for bidirectional and event-based communication from server to client and vice versa.
+3. Express as a web server on node run-time environment, on top of Express server the Socket.io is sending and receiving request from front to back and so.
+4. Moment.js is used for efficient time capture of sending of message in a room
+5. Technology used: Node.Js, Express.Js, Socket.io, Moment.Js
 
 
 
